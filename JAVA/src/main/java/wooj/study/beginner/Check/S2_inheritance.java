@@ -1,7 +1,7 @@
-package wooj.study.Check;
+package wooj.study.beginner.Check;
 
-import wooj.study.s2_inheritance.Customer;
-import wooj.study.s2_inheritance.VIPCustomer;
+import wooj.study.beginner.s2_inheritance.Customer;
+import wooj.study.beginner.s2_inheritance.VIPCustomer;
 
 public class S2_inheritance {
     public static void main(String[] args) {

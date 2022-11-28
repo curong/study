@@ -1,4 +1,4 @@
-package wooj.study.s2_inheritance;
+package wooj.study.beginner.s2_inheritance;
 
 public class VIPCustomer extends Customer {
 

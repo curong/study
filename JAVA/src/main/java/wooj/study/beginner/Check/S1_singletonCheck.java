@@ -1,6 +1,6 @@
-package wooj.study.Check;
+package wooj.study.beginner.Check;
 
-import wooj.study.s1_singleton.Company;
+import wooj.study.beginner.s1_singleton.Company;
 
 public class S1_singletonCheck {
     public static void main(String[] args) {

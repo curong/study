@@ -1,4 +1,4 @@
-package wooj.study.s1_singleton;
+package wooj.study.beginner.s1_singleton;
 
 public class Company {
 

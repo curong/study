@@ -1,4 +1,4 @@
-package wooj.study.s3_virtual_function;
+package wooj.study.beginner.s3_virtual_function;
 
 public class TestA {
     int num;

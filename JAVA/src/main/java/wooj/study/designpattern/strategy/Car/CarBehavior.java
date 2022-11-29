@@ -1,4 +1,4 @@
-package wooj.study.designpattern.strategy;
+package wooj.study.designpattern.strategy.Car;
 
 public class CarBehavior {
 }
